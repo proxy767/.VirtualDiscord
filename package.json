@@ -1,0 +1,10 @@
+{
+  "name": "VirtualDiscord"
+  "description": "VirtualDiscord's Bot"
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
